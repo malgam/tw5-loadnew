@@ -1,5 +1,7 @@
 title: $:/plugins/malgam/loadnew/readme
 
 ! loadnew
-A command to load new or modified tiddlers from a file
+A command to load new or modified tiddlers from a file.
+
+It is based on the built-in "load" command except that it only loads new tiddlers or tiddlers with a later modification date than an existing tiddler with the same title.
 
