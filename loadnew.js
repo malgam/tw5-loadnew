@@ -1,5 +1,5 @@
 /*\
-title: $:/malgam/loadnew.js
+title: $:/plugins/malgam/loadnew/loadnew.js
 type: application/javascript
 module-type: command
 

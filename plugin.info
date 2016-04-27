@@ -1,6 +1,6 @@
 {
     "title": "$:/plugins/malgam/loadnew",
-    "description": "An incremental load command for Tiddlywiki 5",
+    "description": "Command to load new or modified tiddlers from a file",
     "author": "Mal Gamble",
     "version": "0.0.1",
     "core-version": ">=5.1.11",
