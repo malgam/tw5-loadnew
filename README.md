@@ -1,2 +1,3 @@
 # tw5-loadnew
-An incremental load command for Tiddlywiki 5
+A command to load new or modified tiddlers from a file
+

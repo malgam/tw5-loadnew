@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/malgam/loadnew",
+    "description": "An incremental load command for Tiddlywiki 5",
+    "author": "Mal Gamble",
+    "version": "0.0.1",
+    "core-version": ">=5.1.11",
+    "source": "https://github.com/malgam/tw5-loadnew",
+    "plugin-type": "plugin"
+}
