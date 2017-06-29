@@ -6,7 +6,7 @@ The "loadnew" command is used in the same way as the built-in "load" command.  I
 $ tiddlywiki ./MyWiki --loadnew /Path/to/Tiddlywiki/file.html
 ```
 
-will load all new or modified tiddlers from the Tiddlywiki file "/Path/to/Tiddlywiki/file.html" into the node.js Tiddlywiki instance "./MyFile".
+will load all new or modified tiddlers from the Tiddlywiki file "/Path/to/Tiddlywiki/file.html" into the node.js Tiddlywiki instance "./MyWiki".
 
 For more information on using Tiddlywiki with node.js refer to [[Using TiddlyWiki on Node.js|http://tiddlywiki.com/#Using%20TiddlyWiki%20on%20Node.js]]
 
